@@ -3,6 +3,11 @@ loopback-connector-solr
 
 [Solr](http://lucene.apache.org/solr/) connector for [loopback](http://github.com/strongloop/loopback). Very much under construction. Pull requests welcome.
 
+Install:
+```console
+npm install git+ssh://git@git.younetco.com:thinhnh/loopback-connector-solr.git
+```
+
 
 # License
 
