@@ -17,6 +17,7 @@
     "loopback-connector": "^4.2.2",
     "node-uuid": "^1.4.1",
     "rimraf": "^2.2.8",
-    "solr-client": "^0.5.0"
+    "solr-client": "^0.5.0",
+    "underscore": "^1.8.3"
   }
 }
